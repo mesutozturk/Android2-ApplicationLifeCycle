@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="sesdurum"
+        android:summaryOff="Ses Kapalı"
+        android:summaryOn="Ses Açık"
+        android:title="Uygulama Sesi" />
+
+    <CheckBoxPreference
+        android:key="titresim"
+        android:summaryOff="Titreşim Kapalı"
+        android:summaryOn="Titreşim Açık"
+        android:title="Titreşim" />
+</PreferenceScreen>

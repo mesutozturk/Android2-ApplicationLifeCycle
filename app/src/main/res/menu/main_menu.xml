@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Ayarlar"
+        android:visible="true"
+        app:showAsAction="ifRoom"
+        android:id="@+id/ayarlar"/>
+    <item
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Ayarlar2"
+        app:showAsAction="ifRoom" />
+    <item android:title="Falan" />
+</menu>
