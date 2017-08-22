@@ -28,7 +28,7 @@ public class MainActivity
     boolean sesAcikMi = false, titresimAcikMi = false;
     TextView txtDurum;
     AdView mAdView;
-
+    int abc=0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
